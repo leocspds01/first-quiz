@@ -1,8 +1,4 @@
 package org.velezreyes.quiz.question6;
-
-import java.util.HashMap;
-
-import java.util.Map;
  
 public class VendingMachineImpl implements VendingMachine {
  
