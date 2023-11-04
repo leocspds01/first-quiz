@@ -30,7 +30,7 @@ directory by typing `source venv/bin/activate`.
 Each question is a unique challenge. 
 - Question 1 is about solving a bug in an existing tiny program.
 - Question 2 is about writing a simple function.
-- Question 3 is about implementing a class to create a magical oven.
+- Question 3 is  impleaboutmenting a class to create a magical oven.
 - Question 4 is will test your data and SQL abilities.
 - Question 5 is about changing the tables you worked with in Question 4.   
 
